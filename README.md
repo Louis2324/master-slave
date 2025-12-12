@@ -1,5 +1,5 @@
 
-# ** Master Slave Bluetooth Communication **
+# **Master Slave Bluetooth Communication**
 
 ## **Overview**
 
